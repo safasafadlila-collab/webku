@@ -1,5 +1,5 @@
 .body{
-     background-color:lavender;
+     background-color:ffe3e3;
      color:#799f76;
      width:100%;
      font-family:sans-serif;
@@ -10,8 +10,8 @@
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#417aa8;
-    color:#fff;
+    background:#d37897;
+    color:#ffe3e3;
     text-align:center;
 
 }
