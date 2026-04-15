@@ -54,11 +54,11 @@
      height:420px;
      padding:0.1px;
      background:#ffe3e3;
-     color:#799f76;
+     color:#e09fb3;
 }
 
 .border{
-     border: 2px solid #799f76;
+     border: 2px solid #e09fb3;
      margin-top: 1pc;
      padding-bottom:1pc;
      padding-left:2pc;
@@ -90,7 +90,7 @@
      margin:auto;
      height:40px;
      line-height:40px;
-     background: #799f76;
+     background: #e09fb3;
      color:#ffe3e3;
      margin-bottom: 1pc;
 }
