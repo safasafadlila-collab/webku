@@ -5,6 +5,7 @@
      font-family:sans-serif;
      margin:0 auto;
 }
+
 .header{
     width:90%;
     margin:auto;
@@ -13,7 +14,6 @@
     background:#e09fb3;
     color:#f9dee5;
     text-align:center;
-
 }
 
 .jarak{
@@ -21,7 +21,7 @@
 }
 
 .menu{
-     background-color#f9dee5;
+     background-color:#f9dee5;
      height:50px;
      line-height:50px;
      position:relative;
